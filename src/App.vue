@@ -1,8 +1,8 @@
 <template>
-  <img class="back" alt="Vosges" src="./assets/back-light.jpeg" />
+  <img class="back" alt="Dijon" src="./assets/back.webp" />
   <div class="content">
-    <img alt="Marmelab logo" src="./assets/logo-green.png" />
-    <TitleMessage msg="Gildas, on arrive !!!" />
+    <img alt="Marmelab logo" src="./assets/logo-moutarde.png" />
+    <TitleMessage msg="Gildas, on arrive, met la moutarde au frais !!!" />
     <CountDown deadline="2023-06-28T15:20:00.000Z" />
   </div>
 </template>

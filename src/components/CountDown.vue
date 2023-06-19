@@ -38,7 +38,7 @@
           <td class="road-td" colspan="6">
             <BusImage :currentPos="currentPos" class="bus" />
             <img class="road" alt="Road" src="../assets/road.jpg" />
-            <img class="mountain" alt="Mountain" src="../assets/mountain.png" />
+            <img class="moutarde" alt="Moutarde" src="../assets/moutarde.png" />
           </td>
         </tr>
       </table>
@@ -185,7 +185,7 @@ img.road {
   }
 }
 
-img.mountain {
+img.moutarde {
   height: 130px;
   margin-top: -5px;
   margin-left: -80px;
@@ -193,7 +193,7 @@ img.mountain {
 }
 
 @media (max-width: 1250px) {
-  img.mountain {
+  img.moutarde {
     right: 0;
     margin-top: -110px;
     margin-left: unset;

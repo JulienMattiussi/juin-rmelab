@@ -10,19 +10,29 @@
 
 <script>
 const avatars = [
-  { image: "matthieu.jpg", message: "C'est quand qu'on arrive ?!" },
-  { image: "alexandre.png", message: "Je suis malade en voiture ;(" },
+  { image: "matthieu.jpg", message: "Je suis même pas là en vrai ..." },
+  { image: "alexandra.png", message: "On peut y aller en stop ?" },
   { image: "anthony.png", message: "Je veux aller faire pipi !!" },
   { image: "arnaud.png", message: "Y a Matthieu qui m'embête." },
-  { image: "florian.jpg", message: "Zzzzzzz" },
+  { image: "erwan.jpg", message: "Ils ont des murs d'escalade ?" },
   { image: "francois.jpg", message: "Un peu de calme derrière" },
   { image: "gildas.jpg", message: "J'ai des crampes." },
   { image: "guillaume.png", message: "C'est trop long." },
-  { image: "jeremie.jpg", message: "Je revends mon sandwich." },
+  { image: "jeremie.jpg", message: "Je suis même pas là en vrai ..." },
+  { image: "adrieng.png", message: "Metz ça aurait été mieux." },
   { image: "jibe.png", message: "On va où ?" },
+  { image: "guiom.png", message: "Vimenquonrive" },
+  { image: "cindy.png", message: "Je vais tous les doubler" },
+  { image: "thibault.png", message: "Y aura qui ?" },
   { image: "julio.jpg", message: "Quelqu'un a de quoi manger ?" },
-  { image: "karen.jpg", message: "J'ai trop trop hâte <3 !!" },
+  { image: "karen.jpg", message: "J'ai trop trop trop hâte <3 !!" },
   { image: "caroline.png", message: "zu Hilfe !!" },
+  { image: "jonathan.png", message: "Youpi" },
+  {
+    image: "antoine.png",
+    message: "Vous êtes sûrs que j'ai le droit de venir ?",
+  },
+  { image: "benoit.png", message: "Vous êtes sûr qu'on va dans le bon sens ?" },
 ];
 
 const getRandomInt = (max) => {
