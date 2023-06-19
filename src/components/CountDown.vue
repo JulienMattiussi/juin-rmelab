@@ -59,7 +59,7 @@ export default {
   props: {
     startbus: {
       type: Number,
-      default: 2600000000,
+      default: 1600000000,
     },
     deadline: {
       type: String,
