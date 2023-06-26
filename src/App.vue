@@ -20,11 +20,7 @@ export default {
   },
 };
 </script>
-<script
-  id="greenframe_embedable_score_page_script"
-  src="https://cc7b-81-250-164-94.ngrok-free.app/embedable_score_page.js"
-  size="big"
-></script>
+
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
