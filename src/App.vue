@@ -4,7 +4,6 @@
     <img alt="Marmelab logo" src="./assets/logo-moutarde.png" />
     <TitleMessage msg="Gildas, on arrive, met la moutarde au frais !!!" />
     <CountDown deadline="2023-06-28T15:20:00.000Z" />
-
     <div id="greenframe_embedable_score_page"></div>
   </div>
 </template>
@@ -24,6 +23,7 @@ export default {
 <script
   id="greenframe_embedable_score_page_script"
   src="https://cc7b-81-250-164-94.ngrok-free.app/embedable_score_page.js"
+  size="big"
 ></script>
 <style>
 #app {
@@ -60,5 +60,11 @@ export default {
 
 .content {
   position: relative;
+}
+
+#greenframe_embedable_score_page {
+  position: absolute;
+  bottom: 10px;
+  right: 40px;
 }
 </style>
