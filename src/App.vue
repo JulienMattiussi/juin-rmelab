@@ -4,7 +4,6 @@
     <img alt="Marmelab logo" src="./assets/logo-moutarde.png" />
     <TitleMessage msg="Gildas, on arrive, met la moutarde au frais !!!" />
     <CountDown deadline="2023-06-28T15:20:00.000Z" />
-    <div id="greenframe_embedable_score_page"></div>
   </div>
 </template>
 
